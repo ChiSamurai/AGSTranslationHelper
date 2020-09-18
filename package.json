@@ -19,7 +19,12 @@
     "@angular/platform-browser": "~7.2.0",
     "@angular/platform-browser-dynamic": "~7.2.0",
     "@angular/router": "~7.2.0",
+    "@types/binary-parser": "^1.5.0",
+    "binary-parser": "^1.6.2",
+    "buffer": "^5.6.0",
     "core-js": "^2.5.4",
+    "ngx-dropzone": "^2.2.2",
+    "ngx-pipes": "^2.7.5",
     "rxjs": "~6.3.3",
     "tslib": "^1.9.0",
     "zone.js": "~0.8.26"
